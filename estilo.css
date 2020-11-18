@@ -1,0 +1,28 @@
+h1{
+    border:1px solid gray;
+    border-radius: 50px;
+    font-family: Arial, Helvetica, sans-serif;    
+    text-align: center;
+    color: #0c343d;
+    margin:30px;
+    padding: 10px;
+    width: 20cm;
+}
+
+audio{
+    border-radius: 50px;
+    border:1px solid gray;
+    size: 50px
+}
+
+p{
+    text-align: justify;
+    font-family:arial
+}
+
+.tlunad{
+    border:1px solid gray;
+    width: 25cm;   
+    padding: 10px;
+    margin:0px auto;
+}
